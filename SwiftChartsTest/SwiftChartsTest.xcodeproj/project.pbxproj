@@ -16,6 +16,7 @@
 		FD51AED7289818000029A21A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD51AED6289818000029A21A /* ContentView.swift */; };
 		FD51AED9289818010029A21A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD51AED8289818010029A21A /* Assets.xcassets */; };
 		FD51AEDC289818010029A21A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD51AEDB289818010029A21A /* Preview Assets.xcassets */; };
+		FD51AEE728981B5A0029A21A /* ChartEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD51AEE628981B5A0029A21A /* ChartEntry.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		FD51AED6289818000029A21A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FD51AED8289818010029A21A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD51AEDB289818010029A21A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FD51AEE628981B5A0029A21A /* ChartEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartEntry.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				FD51AEC4289817FE0029A21A /* ContentView.swift */,
 				FD51AEC6289818000029A21A /* Assets.xcassets */,
 				FD51AEC8289818000029A21A /* Preview Content */,
+				FD51AEE628981B5A0029A21A /* ChartEntry.swift */,
 			);
 			path = SwiftChartsTest;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD51AEE728981B5A0029A21A /* ChartEntry.swift in Sources */,
 				FD51AEC5289817FE0029A21A /* ContentView.swift in Sources */,
 				FD51AEC3289817FE0029A21A /* SwiftChartsTestApp.swift in Sources */,
 			);
